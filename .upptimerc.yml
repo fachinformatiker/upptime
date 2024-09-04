@@ -7,8 +7,8 @@ sites:
     url: https://psvisual.de
   - name: Opieka z pasja
     url: https://opiekazpasja.pl
-  - name: Annielovelivemusic
-    url: https://annielovelivemusic.de
+  - name: Annielovelifemusic
+    url: https://annielovelifemusic.de
   - name: 016969.xyz
     url: https://016969.xyz
   - name: JNB Media
@@ -19,8 +19,6 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
   - name: IPv6 test
     url: forwardemail.net
     port: 80
