@@ -59,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/016969.xyz.ico",
     "slug": "016969-xyz",
     "status": "down",
-    "uptime": "0.48%",
-    "uptimeDay": "0.48%",
-    "uptimeWeek": "0.48%",
-    "uptimeMonth": "0.48%",
-    "uptimeYear": "0.48%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-09-04": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "JNB Media",
