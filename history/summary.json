@@ -4,9 +4,9 @@
     "url": "https://psvisual.de",
     "icon": "https://icons.duckduckgo.com/ip3/psvisual.de.ico",
     "slug": "psvisual",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 1307,
     "timeMonth": 1228,
     "timeYear": 1228,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-13": 0
+    }
   },
   {
     "name": "Opieka z pasja",
     "url": "https://opiekazpasja.pl",
     "icon": "https://icons.duckduckgo.com/ip3/opiekazpasja.pl.ico",
     "slug": "opieka-z-pasja",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 1584,
     "timeMonth": 1559,
     "timeYear": 1559,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-13": 0
+    }
   },
   {
     "name": "Annielovelifemusic",
     "url": "https://annielovelifemusic.de",
     "icon": "https://icons.duckduckgo.com/ip3/annielovelifemusic.de.ico",
     "slug": "annielovelifemusic",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +55,9 @@
     "timeWeek": 1226,
     "timeMonth": 1126,
     "timeYear": 1126,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-13": 0
+    }
   },
   {
     "name": "016969.xyz",
