@@ -25,9 +25,9 @@
     "url": "https://opiekazpasja.pl",
     "icon": "https://icons.duckduckgo.com/ip3/opiekazpasja.pl.ico",
     "slug": "opieka-z-pasja",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
@@ -37,6 +37,7 @@
     "timeMonth": 1487,
     "timeYear": 1500,
     "dailyMinutesDown": {
+      "2024-10-08": 0,
       "2024-09-13": 21
     }
   },
