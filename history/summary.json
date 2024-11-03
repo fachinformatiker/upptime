@@ -84,19 +84,19 @@
     "url": "https://jnbmedia.de",
     "icon": "https://icons.duckduckgo.com/ip3/jnbmedia.de.ico",
     "slug": "jnb-media",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 922,
-    "timeDay": 744,
-    "timeWeek": 881,
-    "timeMonth": 1015,
-    "timeYear": 922,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
+    "time": 930,
+    "timeDay": 972,
+    "timeWeek": 942,
+    "timeMonth": 1028,
+    "timeYear": 930,
     "dailyMinutesDown": {
-      "2024-11-03": 0
+      "2024-11-03": 25
     }
   },
   {
