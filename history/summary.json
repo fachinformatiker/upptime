@@ -4,11 +4,11 @@
     "url": "https://psvisual.de",
     "icon": "https://icons.duckduckgo.com/ip3/psvisual.de.ico",
     "slug": "psvisual",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.94%",
     "time": 1303,
     "timeDay": 1729,
@@ -16,6 +16,7 @@
     "timeMonth": 1372,
     "timeYear": 1303,
     "dailyMinutesDown": {
+      "2024-11-14": 1,
       "2024-11-11": 15,
       "2024-10-05": 24,
       "2024-09-13": 21
@@ -46,9 +47,9 @@
     "url": "https://annielovelifemusic.de",
     "icon": "https://icons.duckduckgo.com/ip3/annielovelifemusic.de.ico",
     "slug": "annielovelifemusic",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -58,6 +59,7 @@
     "timeMonth": 1173,
     "timeYear": 1108,
     "dailyMinutesDown": {
+      "2024-11-14": 0,
       "2024-10-05": 23,
       "2024-09-13": 21
     }
